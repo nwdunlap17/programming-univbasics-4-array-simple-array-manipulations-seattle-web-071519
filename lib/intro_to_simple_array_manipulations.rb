@@ -25,3 +25,7 @@ def using_delete(array,string)
     i += 1
   end
 end
+
+array = ['a','b','c','d']
+p using_pop_with_args(array)
+p array
