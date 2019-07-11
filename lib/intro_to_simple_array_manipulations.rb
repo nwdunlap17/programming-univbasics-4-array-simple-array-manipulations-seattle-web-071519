@@ -26,6 +26,6 @@ def using_delete(array,string)
   end
 end
 
-array = ['a','b','c','d']
+array = ["Great Dane", "Golden Retriever", "Chihuahua", "Shiba Inu"]
 p using_pop_with_args(array)
 p array
