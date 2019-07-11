@@ -16,12 +16,12 @@ end
 
 def using_delete(array,string)
   i = 0
-#  while i < array.size do
-#    if(array[i]==string)
-#       array.delete(i)
-#    end
+  while i < array.size do
+    if(array[i]==string)
+       array.delete(i)
+    end
     i += 1
-#  end
+  end
 end
 
 magic_exit_number = 7
