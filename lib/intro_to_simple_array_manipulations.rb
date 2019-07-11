@@ -14,7 +14,7 @@ def using_pop_with_args(array,num)
   return array.pop(num)
 end
 
-#def using_delete(array,string)
+def using_delete(array,string)
 #  i = 0
 #  while i < array.size do
 #    if(array[i]==string)
@@ -22,7 +22,7 @@ end
 #    end
 #    i++
 #  end
-#end
+end
 
 magic_exit_number = 7
 count = 0
