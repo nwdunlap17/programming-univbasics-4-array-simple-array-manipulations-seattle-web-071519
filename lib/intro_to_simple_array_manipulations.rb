@@ -20,7 +20,7 @@ def using_delete(array,string)
 #    if(array[i]==string)
 #       array.delete(i)
 #    end
-    i++
+    i += 1
 #  end
 end
 
