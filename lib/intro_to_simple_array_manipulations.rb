@@ -15,7 +15,7 @@ def using_pop_with_args(array,num)
 end
 
 def using_delete(array,string)
-#  i = 0
+  i = 0
 #  while i < array.size do
 #    if(array[i]==string)
 #       array.delete(i)
