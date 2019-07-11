@@ -25,3 +25,7 @@ def using_delete(array,string)
     i += 1
   end
 end
+
+def using_shift(array)
+  return array.shift 
+end
