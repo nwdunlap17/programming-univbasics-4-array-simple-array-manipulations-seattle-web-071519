@@ -11,7 +11,8 @@ def using_pop(array)
 end
 
 def using_pop_with_args(array,num)
-  return array.pop(2)
+  pop1 = [array.pop(),array.pop()]
+  return pop1
 end
 
 def using_delete(array,string)
