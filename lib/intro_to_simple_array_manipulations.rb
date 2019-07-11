@@ -39,7 +39,7 @@ def using_concat(arr1,arr2)
 end
 
 def using_inser(array,ele)
-  return array.insert(ele,4)
+  return array.insert(ele,3)
 end
 
 def using_uniq(array)
